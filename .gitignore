@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.venv/
+
+# CSV files
+*.csv
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# pycache
+__pycache__/
